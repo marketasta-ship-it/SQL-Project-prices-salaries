@@ -40,8 +40,16 @@ Pro vytvoření této tabulky jsem jsem vycházela z dat zdrojových tabulek *ec
 
 # Výzkumné otázky a odpovědi
 
-1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
-3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuálně meziroční nárůst)?
-4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin ve stejném nebo následujícím roce výraznějším růstem?
+**1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+- Mzdy v průběhu sledovaného období, mezi lety 2006 a 2018 nerostly ve všech odvětvích. Z 19 analyzovaných odvětví pouze v 5 odvětvích rostly mzdy po celé sledované období. Byly to: administrativní a podpůrné činnosti, doprava a skladování, zdravotní a sociální péče, zpracovatelský průmysl a ostatní činnosti. U ostatních došlo alespoň v jednom roce k poklesu mezd. 
+Analýza meziroční změny průměrných mezd ukazuje, že v některých odvětvích došlo alespoň v jednom roce k poklesu mezd, zatímco v jiných odvětvích mzdy rostly kontinuálně po celé sledované období.
+
+Z toho vyplývá, že:
+
+růst mezd nebyl plošný napříč všemi odvětvími,
+
+vývoj mezd se lišil podle konkrétního odvětví.
+**2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+**3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuálně meziroční nárůst)?**
+**4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+**5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin ve stejném nebo následujícím roce výraznějším růstem?**
