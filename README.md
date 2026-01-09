@@ -38,3 +38,10 @@ Pro vytvoření této tabulky jsem jsem vycházela z dat zdrojových tabulek *ec
 2. Proto jsem si v tabulce *country* vyfiltrovala pouze země, kde *continent = 'Europe'* a pomocí společného klíče *country* jsem provedla *LEFT JOIN* a připojila údaje z tabulky *economies* jen pro vybrané země.
 3. Abych zajistila, že se časové období této tabulky bude shodovat s tabulkou mezd a cen, připojila jsem pomocí *JOIN MIN(year) a MAX(year)* z tabulky mezd a cen. Stačilo by použít statický filtr  *WHERE year BETWEEN 2006 and 2018* ale toto dynamické propojení zajistí správnost dat, kdyby se období v první tabulce změnilo.
 
+# Výzkumné otázky a odpovědi
+
+1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuálně meziroční nárůst)?
+4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin ve stejném nebo následujícím roce výraznějším růstem?
